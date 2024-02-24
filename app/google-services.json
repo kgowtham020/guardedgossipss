@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932473647017",
+    "project_id": "guarded-gossips",
+    "storage_bucket": "guarded-gossips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932473647017:android:86f1a7af95d71da1ff1eb8",
+        "android_client_info": {
+          "package_name": "com.example.guardedgossips"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5LPTFYz1OvdM5XJ1s6GSZJuvTTADp8ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
