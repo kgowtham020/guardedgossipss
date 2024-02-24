@@ -1,4 +1,6 @@
 Guarded Gossipos Chat Application
+
+
 Welcome to the repository of Guarded Gossipos, a real-time chat application developed using Kotlin and Android Studio.
 
 Features
