@@ -74,7 +74,7 @@ Guarded Gossip is an Android-based chat application focused on **secure and priv
  We welcome contributions! If you'd like to contribute:
 
 ## 🧑‍💻 **Contact**
-_Developed by Kaditham Gowtham._
-*For any inquiries, feel free to reach out:*
-*📧 Email: kgowtham020@gmail.com
+- _Developed by Kaditham Gowtham._
+- *For any inquiries, feel free to reach out:*
+- **📧 Email: kgowtham020@gmail.com**
 
