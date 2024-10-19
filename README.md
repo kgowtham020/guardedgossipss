@@ -49,7 +49,7 @@ Guarded Gossip is an Android-based chat application focused on **secure and priv
 4. Enable self-destruct timers for messages to ensure privacy.
 5. Check notifications for real-time updates on new messages.
 
-  ---
+---
 
 
 ## 🎯 **Future Enhancements**
@@ -59,6 +59,8 @@ Guarded Gossip is an Android-based chat application focused on **secure and priv
 4. Two-Factor Authentication (2FA) for additional login security.
 5. Custom Stickers to make chats more fun.
 
+---
+
 
 **🛡 Security Features**
 1. AES-256 Encryption ensures that messages are only accessible to authorized users.
@@ -66,12 +68,19 @@ Guarded Gossip is an Android-based chat application focused on **secure and priv
 3. No Central Storage: We don't store your messages on any server.
 4. Self-Destruct: Set timers to delete chats after a certain period.
 
+---
+
 ## 📋 **License**
 - This project is licensed under the MIT License – see the LICENSE file for details.
 
+---
+
 
 ## 🤝 **Contributing**
- We welcome contributions! If you'd like to contribute:
+ We welcome contributions! If you'd like to contribute!
+
+ ---
+ 
 
 ## 🧑‍💻 **Contact**
 - _Developed by Kaditham Gowtham._
