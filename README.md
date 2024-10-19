@@ -32,10 +32,10 @@ Guarded Gossip is an Android-based chat application focused on **secure and priv
    cd guarded-gossip
    Open the project in Android Studio.
 **Configure Firebase:**
-- Add the google-services.json file from your Firebase project.
-- Enable Authentication and Realtime Database in Firebase Console.
-- Build and Run:
-- Connect your Android device/emulator and click Run.
+1. Add the google-services.json file from your Firebase project.
+2. Enable Authentication and Realtime Database in Firebase Console.
+3. Build and Run:
+4. Connect your Android device/emulator and click Run.
 
 ---
 
@@ -43,31 +43,38 @@ Guarded Gossip is an Android-based chat application focused on **secure and priv
 
 
 ## 📱 **How to Use**
-- Sign up or log in using your email or biometric authentication.
-- Start chatting with friends by searching for their usernames.
-- Create group chats to stay connected with multiple people.
-- Enable self-destruct timers for messages to ensure privacy.
-- Check notifications for real-time updates on new messages.
+1. Sign up or log in using your email or biometric authentication.
+2. Start chatting with friends by searching for their usernames.
+3. Create group chats to stay connected with multiple people.
+4. Enable self-destruct timers for messages to ensure privacy.
+5. Check notifications for real-time updates on new messages.
 
   ---
 
 
 ## 🎯 **Future Enhancements**
-Dark Mode: Toggle between light and dark themes.
-Media Sharing: Send images, videos, and files securely.
-Voice and Video Calls: Secure real-time communication beyond text.
-Two-Factor Authentication (2FA) for additional login security.
-Custom Stickers to make chats more fun.
+1. Dark Mode: Toggle between light and dark themes.
+2. Media Sharing: Send images, videos, and files securely.
+3. Voice and Video Calls: Secure real-time communication beyond text.
+4. Two-Factor Authentication (2FA) for additional login security.
+5. Custom Stickers to make chats more fun.
 
 
 **🛡 Security Features**
-AES-256 Encryption ensures that messages are only accessible to authorized users.
-Biometric Authentication prevents unauthorized access to the app.
-No Central Storage: We don't store your messages on any server.
-Self-Destruct: Set timers to delete chats after a certain period.
+1. AES-256 Encryption ensures that messages are only accessible to authorized users.
+2. Biometric Authentication prevents unauthorized access to the app.
+3. No Central Storage: We don't store your messages on any server.
+4. Self-Destruct: Set timers to delete chats after a certain period.
 
-**📋 License**
-This project is licensed under the MIT License – see the LICENSE file for details.
+## 📋 **License**
+- This project is licensed under the MIT License – see the LICENSE file for details.
 
 
+## 🤝 **Contributing**
+ We welcome contributions! If you'd like to contribute:
+
+## 🧑‍💻 **Contact**
+_Developed by Kaditham Gowtham._
+*For any inquiries, feel free to reach out:*
+*📧 Email: kgowtham020@gmail.com
 
