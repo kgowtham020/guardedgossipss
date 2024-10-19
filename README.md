@@ -31,24 +31,28 @@ Guarded Gossip is an Android-based chat application focused on **secure and priv
    git clone <repository-url>
    cd guarded-gossip
    Open the project in Android Studio.
-Configure Firebase:
-Add the google-services.json file from your Firebase project.
-Enable Authentication and Realtime Database in Firebase Console.
-Build and Run:
-Connect your Android device/emulator and click Run.
+**Configure Firebase:**
+- Add the google-services.json file from your Firebase project.
+- Enable Authentication and Realtime Database in Firebase Console.
+- Build and Run:
+- Connect your Android device/emulator and click Run.
+
+---
 
 
 
 
-##📱**How to Use**
-Sign up or log in using your email or biometric authentication.
-Start chatting with friends by searching for their usernames.
-Create group chats to stay connected with multiple people.
-Enable self-destruct timers for messages to ensure privacy.
-Check notifications for real-time updates on new messages.
+## 📱 **How to Use**
+- Sign up or log in using your email or biometric authentication.
+- Start chatting with friends by searching for their usernames.
+- Create group chats to stay connected with multiple people.
+- Enable self-destruct timers for messages to ensure privacy.
+- Check notifications for real-time updates on new messages.
+
+  ---
 
 
-**🎯 Future Enhancements**
+## 🎯 **Future Enhancements**
 Dark Mode: Toggle between light and dark themes.
 Media Sharing: Send images, videos, and files securely.
 Voice and Video Calls: Secure real-time communication beyond text.
